@@ -4,3 +4,4 @@ Cold and dry, but everythihg is my favourite colour
 тест 2. Данной значение введено вне коммандной строки git diff   
 The Mummy will appreciate the lack of  humidity
 (1:36:30)практика создвания нескольких записей в раных файлах
+новые данные за 13.09.2023 в mars.txt
